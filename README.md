@@ -6,3 +6,8 @@
 
 #### Avatar:
 <img src="Profile Photos/Zelda.jpg" width="300">
+
+## Assignments Folder
+
+|   #   |   Folder Link   |   Assignment Description    |
+| :---: |   -----------   |   ----------------------    | 
