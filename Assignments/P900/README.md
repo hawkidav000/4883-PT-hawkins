@@ -1,4 +1,4 @@
-## Assignment 6
+## Assignment 10.1
 ### UVA Problem 900: Brick Wall Patterns
 
 #### Overview:
