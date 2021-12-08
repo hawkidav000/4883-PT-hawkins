@@ -7,3 +7,6 @@
 |   [A06](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A06)    |   [P10038](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A06)    |   UVA Problem 10038: Jolly Jumpers   |
 |   [A08](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A08)    |   [P10226](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A08)    |   UVA Problem 10226: Hardwood Species   |
 |   [A10](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   [P900](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   UVA Problem 900: Brick Wall Patterns   |
+|   [A13](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A13)    |   [P1112](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   UVA Problem 1112: Mice and Maze  |
+|   [A14](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A13)    |   [Easy Three](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   Easy Breezey Week  |
+|   [A15](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A13)    |   [Presentation Problem](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   UVA Problem 760  |
