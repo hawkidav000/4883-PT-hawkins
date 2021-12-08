@@ -18,3 +18,4 @@
 |   [A14](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A14)    |   [Easy Three](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A14)    |   Easy Breezey Week  |
 |   [A15](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A15)    |   [Presentation Problem](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A15)    |   UVA Problem 760  |
 |   [A16](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A16)    |   [Sorting Experiment](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A16)    |   Found this assignment super interesting. Definitely my favorite part of the course.  |
+|   [A17](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A17)    |   [P112](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A17)    |   UVA Problem 112: Tree Summing  |
