@@ -27,3 +27,7 @@ integers and be more efficient, Heap Sort is much more flexible in the kind of d
 values, and it just breaks. Found it to be one of the least scalable sorting algorithms out there. Also, I found Bucket Sort to be very interesting. I had to play with the values of the
 number of buckets and how much each bucket could hold, but I found that it was still a fairly efficient and scalable sorting algorithm under the right circumstances. That was my first
 time ever using it, and I thought it was pretty cool. Overall, I really enjoyed this assignment, and I found it super fascinating.
+
+## **NOTE:
+
+When you click on the charts on my Excel spreadsheet, they're set up where if you've selected chart, the labels will show for points when you hover over a specific area. Just wanted to let you know so that you don't have to try and read the tables to understand what's going on.
