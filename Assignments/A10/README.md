@@ -1,4 +1,4 @@
-## Assignment 10.1
+## Assignment 10: The 900's
 ### UVA Problem 900: Brick Wall Patterns
 
 #### Overview:
@@ -13,3 +13,9 @@ number.
 
 #### Reflection:
 I was pretty happy that I got 0.000 time. I know it was an easy problem, but it still feels good to have solved that.
+
+---------
+
+### UVA Problem 900: Brick Wall Patterns
+
+#### Status: Unfinished
