@@ -2,6 +2,7 @@
 
 |   #   |   Folder Link   |   Assignment Description    |
 | :---: |   -----------   |   ----------------------    | 
+|   [A01](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A01)    |   [Establishing Comms](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A01)    |   Sign up for slack, class roster, etc...   |
 |   [A04](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A04)    |   [P10055](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A04)    |   UVA Problem 10055: Hashmat the brave warrior   |
 |   [A05](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A05)    |   [P161](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A05)    |   UVA Problem 161: Traffic Lights   |
 |   [A06](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A06)    |   [P10038](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A06)    |   UVA Problem 10038: Jolly Jumpers   |
