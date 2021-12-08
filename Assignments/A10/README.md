@@ -16,6 +16,6 @@ I was pretty happy that I got 0.000 time. I know it was an easy problem, but it 
 
 ---------
 
-### UVA Problem 900: Brick Wall Patterns
+### UVA Problem 920
 
 #### Status: Unfinished
