@@ -13,6 +13,7 @@
 |   [A09](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A09)    |   [P10017](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A09)    |   UVA Problem 10017: The Never Ending Towers of Hanoi   |
 |   [A10](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   [P900](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A10)    |   UVA Problem 900 and UVA Problem 920   |
 |   [A11](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A11)    |   [P108](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A11)    |   UVA Problem 108: Maximum Sums (Kadane's Algorithm)   |
+|   [A12](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A12)    |   [Bye Week](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A12)    |   Use this time to get caught up   |
 |   [A13](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A13)    |   [P1112](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A13)    |   UVA Problem 1112: Mice and Maze  |
 |   [A14](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A14)    |   [Easy Three](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A14)    |   Easy Breezey Week  |
 |   [A15](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A15)    |   [Presentation Problem](https://github.com/hawkidav000/4883-PT-hawkins/tree/main/Assignments/A15)    |   UVA Problem 760  |
